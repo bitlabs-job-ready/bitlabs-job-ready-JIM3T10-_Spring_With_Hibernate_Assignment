@@ -1,0 +1,15 @@
+1. Create a simple Spring MVC application with a few controllers and service classes.
+
+2. Use the @Autowired annotation to inject dependencies into the controllers and service classes.
+
+3. Experiment with different autowiring modes, such as byType and byName, and see how they affect the way dependencies are injected.
+
+4. Use the @Qualifier annotation to disambiguate between multiple beans of the same type.
+
+5. Use the @Component annotation to create custom components that can be autowired into other beans.
+
+6. Use the @Value annotation to inject values from application properties into beans.
+
+7. Use the @Bean annotation to define custom beans in a @Configuration class.
+
+8. Use the @Scope annotation to control the lifecycle of beans and the way they are shared between different clients.
